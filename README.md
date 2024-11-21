@@ -1,4 +1,4 @@
 # hammad-demo
 This is my first Git Repository.
 <br>
-Author - Mohammed Hammad Siddiqui
+Author - Mohammed Hammad Siddiqui (TU BS)
